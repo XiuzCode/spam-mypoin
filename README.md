@@ -11,7 +11,7 @@
 apt install php curl git
 git clone https://github.com/Maoundis/spam-mypoin
 cd spam-mypoin
-php spam-mypoin.php
+php s-mypoin.php
 
 ```
 
